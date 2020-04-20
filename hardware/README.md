@@ -2,7 +2,7 @@
 
 - CPU : NodeMCU (4MB EEPROM = 20 Bytes / Sec 2 days of data collection)
 - Sensor : Neo6M GPS
-- 433 MHz sender 
+- 433 MHz sender : FS1000A
   - Energy: 3V-12V
   - Load: 20-28mA
   - Resonance Mode: SAW
