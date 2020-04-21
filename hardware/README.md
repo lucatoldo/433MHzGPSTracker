@@ -15,7 +15,7 @@
   - Max. Transfer-error : ≤10Kbps
 - Power: 2x 1.5 V Batteries
 
-## Receceiver
+## Receiver
 - CPU : NodeMCU (4MB EEPROM = 20 Bytes / Sec 2 days of data collection)
 - 433 MHz receiver : RF-5V
 - Power: 2x 1.5 V Batteries
