@@ -1,5 +1,7 @@
 # Hardware
 
+## Sender
+
 - CPU : NodeMCU (4MB EEPROM = 20 Bytes / Sec 2 days of data collection)
 - Sensor : Neo6M GPS
 - 433 MHz sender : FS1000A
@@ -11,4 +13,9 @@
   - Energy power: 25mW (433MHz an 12V)
   - Frequency error: +150kHz (max)
   - Max. Transfer-error : ≤10Kbps
+- Power: 2x 1.5 V Batteries
+
+## Receceiver
+- CPU : NodeMCU (4MB EEPROM = 20 Bytes / Sec 2 days of data collection)
+- 433 MHz receiver : RF-5V
 - Power: 2x 1.5 V Batteries
